@@ -7,3 +7,5 @@ class User < ApplicationRecord
   validates :name, presence: true
 
 end
+
+メッセージ投稿
